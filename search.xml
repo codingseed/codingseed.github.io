@@ -25,6 +25,19 @@
       </tags>
   </entry>
   <entry>
+    <title>友链</title>
+    <url>/2021/12/01/%E5%8F%8B%E9%93%BE/</url>
+    <content><![CDATA[<p><a href="https://luxian.yupi.icu/#/roadmap/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF">Java学习路线</a></p>
+<p><a href="https://home.code-nav.cn/">编程导航</a></p>
+]]></content>
+      <categories>
+        <category>友链</category>
+      </categories>
+      <tags>
+        <tag>友链</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>test</title>
     <url>/2021/11/30/test/</url>
     <content><![CDATA[<p>Tag Plugin 是一种使 Hexo 支持特殊样式内容的方法。例如，我们无法在标准 Markdown 中显示具有自定义尺寸的图像。然后我们可以使用标签插件来解决它。 Hexo 有很多可以帮助用户的标签。 Hexo 还具有主题接口，使主题能够创建自己的标签。</p>
